@@ -74,6 +74,7 @@ header {
 .container{
     display: flex;
     width: 90vw;
+    margin: auto;
 }
 
 .panel{
@@ -82,12 +83,12 @@ header {
     background-repeat: no-repeat;
     height: 80vh;
     border-radius: 50px;
-    color:white;
+    color:goldenrod;
     cursor: pointer;
     flex: 0.5;
     margin: 10px;
     position: relative;
-    transition: flex 0.7s ease-in;
+    
 }
 
 
