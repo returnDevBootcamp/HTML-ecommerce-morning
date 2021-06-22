@@ -70,76 +70,6 @@ header {
   height: 70%;
 }
 
-<<<<<<< HEAD
-.container{
-
-    
-    width:100%;
-    margin: auto;
-    background-color:cadetblue;
-
-    
-}
-
-.panel {
-    background-size: auto 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 80vh;
-    border-radius: 50px;
-    color:black;
-    cursor: pointer;
-    flex: 0.5;
-    margin: 10px;
-    
-    
-    
-}
-
-.panel img{
-    background-size: auto 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    height: 80vh;
-    border-radius: 50px;
-    color:black;
-    cursor: pointer;
-    flex: 0.5;
-    margin: 10px;
-    
-    
-    
-}
-
-
-
-
-
-
-
-
-
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=======
 .container {
   width: 70%;
   margin: auto;
@@ -258,4 +188,3 @@ footer {
   text-align: center;
   border-top: 1px solid red;
 }
->>>>>>> upstream/main
